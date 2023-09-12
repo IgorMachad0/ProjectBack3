@@ -1,10 +1,10 @@
 # AspNet & SSMS practice
 
-:penguin: ### Mapping a web app for practice :penguin:
+:penguin: ## Mapping a web app for practice :penguin:
 
 Web app in AspNet, using C#'s MapGet to map routes landing into pages, sending data to the application, requesting data from local SQL server and showing the processed data (and testing some other features).
 
-|Routes||
+|Routes| |
 |--|
 | \... | Destination |
 |--|
