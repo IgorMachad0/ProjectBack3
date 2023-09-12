@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "EZgutXWgm4WIPaU4amyQm5lqGgP1uvAqTGNHgSZ2Pe0=",
+  "Source": "projetoWEB SA3",
+  "BasePath": "_content/projetoWEB SA3",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "projetoWEB SA3\\wwwroot",
+      "Source": "projetoWEB SA3",
+      "ContentRoot": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\projetoWEB SA3 - SQL\\wwwroot\\",
+      "BasePath": "_content/projetoWEB SA3",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\projetoWEB SA3 - SQL\\wwwroot\\products.html",
+      "SourceId": "projetoWEB SA3",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\projetoWEB SA3 - SQL\\wwwroot\\",
+      "BasePath": "_content/projetoWEB SA3",
+      "RelativePath": "products.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\products.html"
+    }
+  ]
+}

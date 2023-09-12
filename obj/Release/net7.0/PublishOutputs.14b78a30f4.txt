@@ -1,0 +1,13 @@
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\projetoWEB SA3.exe
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\appsettings.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\projetoWEB SA3.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\projetoWEB SA3.deps.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\projetoWEB SA3.runtimeconfig.json
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\projetoWEB SA3.pdb
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\System.Data.SqlClient.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\runtimes\win-x64\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\runtimes\win-x86\native\sni.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\iGORN\Documents\Programar\Projetos\back end\projetoWEB SA3 - SQL\bin\Release\net7.0\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

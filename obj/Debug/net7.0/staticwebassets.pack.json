@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\iGORN\\Documents\\Programar\\Projetos\\back end\\projetoWEB SA3 - SQL\\wwwroot\\products.html",
+      "PackagePath": "staticwebassets\\products.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.projetoWEB SA3.props",
+      "PackagePath": "build\\projetoWEB SA3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.projetoWEB SA3.props",
+      "PackagePath": "buildMultiTargeting\\projetoWEB SA3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.projetoWEB SA3.props",
+      "PackagePath": "buildTransitive\\projetoWEB SA3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.projetoWEB SA3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

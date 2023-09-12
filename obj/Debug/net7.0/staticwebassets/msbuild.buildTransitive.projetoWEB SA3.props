@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\projetoWEB SA3.props" />
+</Project>
