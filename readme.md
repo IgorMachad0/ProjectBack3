@@ -5,7 +5,7 @@
 Web app in AspNet, using C#'s MapGet to map routes landing into pages, sending data to the application, requesting data from local SQL server and showing the processed data (and testing some other features).
 
 ## Routes
-|      '\...      |                     Destination                        |
+|      \\...      |                     Destination                        |
 |-----------------|--------------------------------------------------------|
 |                 | Hello World!                                           |
 | products        | redirect to html page                                  |
