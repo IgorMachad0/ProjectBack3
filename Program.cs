@@ -62,10 +62,6 @@ public class Program
             }
         );
 
-        app.Run(async (HttpContext context) => {
-            await context.Response.WriteAsync("Page not found");
-        });
-
         app.UseStaticFiles();
         app.Run();
     }
